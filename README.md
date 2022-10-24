@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amir</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
+<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-ameer&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-ameer" /> </p>
 
 - 🌱 I’m currently learning **Js/Angular**
