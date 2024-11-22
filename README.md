@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmIyN3MyNXQxZnIzdHFteHlzbWgyNTFraTdxMzUzM2Q4eGQwNnZsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/200.webp">
 
-- 🔭 I’m currently working on **Building NestJS template that similar to Django..**
+- 🔭 I’m currently working on **Building NestJS-boilerplate that similar to Django.**
 
 - 🌱 I’m currently learning **.NET and Ruby on Rails**
 
