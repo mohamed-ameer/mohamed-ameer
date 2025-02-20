@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on **Building NestJS-boilerplate that similar to Django.**
 
-- 🌱 I’m currently learning **.NET and Ruby on Rails**
+- 🌱 I’m currently learning **Frappe and ERPNext**
 
-- 👯 I’m looking to collaborate on **Open-source full-stack web applications and eCommerce platforms.**
+- 👯 I’m looking to collaborate on **Open-source full-stack web applications and eCommerce / ERP / SaaS platforms.**
 
 - 🤝 I’m looking for help with **Improving backend performance optimization in large-scale applications.**
 
-- 💬 Ask me about **Django, Node.js, React and Angular**
+- 💬 Ask me about **Django, Node.js, Frappe, React and Angular**
 
 - 📫 How to reach me **mohamedamirr424@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wNBlIJbWrVdfjyh6lodB46mH3MVjBo1k/view?usp=sharing](https://drive.google.com/file/d/1wNBlIJbWrVdfjyh6lodB46mH3MVjBo1k/view?usp=sharing)
+- 📄 Know about my experiences [See My Resume](https://drive.google.com/file/d/1R_wng54fVDLGbyYdCAGEPEhLEWIgN0Oq/view?usp=drive_link)
 
 - ⚡ Fun fact **I enjoy simplifying complex software concepts for others.**
 
