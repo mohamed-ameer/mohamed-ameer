@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mohamedamirr424@gmail.com**
 
-- 📄 Know about my experiences [See My Resume](https://drive.google.com/file/d/1R_wng54fVDLGbyYdCAGEPEhLEWIgN0Oq/view?usp=drive_link)
+- 📄 Know about my experiences [See My Resume](https://drive.google.com/file/d/1skcb4oa36rLXyaLOavtOsvpQMUZR-V-S/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy simplifying complex software concepts for others.**
 
